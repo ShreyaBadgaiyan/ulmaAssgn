@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670787980231",
+    "project_id": "ulma-a8e18",
+    "storage_bucket": "ulma-a8e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670787980231:android:5161dde9f16ba395ba27e2",
+        "android_client_info": {
+          "package_name": "com.ulma.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoQyF7D0VNg01bRrIwWFWuofumcYkLLws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
